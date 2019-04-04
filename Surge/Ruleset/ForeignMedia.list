@@ -68,6 +68,9 @@ DOMAIN,abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net
 DOMAIN,linear-abematv.akamaized.net
+# > ABCTV
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,go.com
 # > (UK)
 # > BBC iPlayer
 USER-AGENT,BBCiPlayer*
