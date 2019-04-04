@@ -301,6 +301,7 @@ DOMAIN-SUFFIX,xfinity.com
 DOMAIN-SUFFIX,zattoo.com
 DOMAIN,abc.com
 DOMAIN,abc.go.com
+DOMAIN,abcnews.go.com
 DOMAIN,abc.net.au
 DOMAIN,wego.here.com
 USER-AGENT,Roam*
