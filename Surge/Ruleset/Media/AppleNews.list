@@ -1,13 +1,26 @@
+
 # > Apple News and Apple Map TOMTOM Version
-DOMAIN,gspe1-ssl.ls.apple.com
-PROCESS-NAME,News
-USER-AGENT,AppleNews*
+USER-AGENT,com.apple.geod*
+USER-AGENT,com.apple.Maps
+USER-AGENT,geod*
+USER-AGENT,locationd*
+USER-AGENT,Maps*
+USER-AGENT,News* 
+USER-AGENT,AppleNews* 
 USER-AGENT,com.apple.news*
-USER-AGENT,News*
-#DOMAIN,gateway.icloud.com,PROXY // 必须
-#DOMAIN,news-events.apple.com,PROXY // 必须
-#DOMAIN,gateway.icloud.com,PROXY// 必须
-#DOMAIN,apple.comscoreresearch.com,PROXY // 不代理获取0资源
-#DOMAIN-SUFFIX,apple.news,PROXY // 可选不影响使用
-#DOMAIN,news-client.apple.com,PROXY // 可选不影响使用
-#DOMAIN,news-edge.apple.com,PROXY // 可选不影响使用
+PROCESS-NAME,News 
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,gs-loc.apple.com
+DOMAIN,news-client.apple.com 
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,gateway.icloud.com 
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,play-cdn.itunes-apple.com.akadns.net
+# > Apple TV
+DOMAIN,ocvideo.apple.com
