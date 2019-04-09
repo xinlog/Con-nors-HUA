@@ -8,5 +8,7 @@ DOMAIN,aod.itunes.apple.com
 DOMAIN,audio.itunes.apple.com
 DOMAIN,audio-ssl.itunes.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
-# > Apple TV
-DOMAIN,ocvideo.apple.com
+# > Apple 
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,appstore.com
