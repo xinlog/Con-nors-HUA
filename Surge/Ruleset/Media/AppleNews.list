@@ -12,13 +12,13 @@ DOMAIN-SUFFIX,ls.apple.com
 
 PROCESS-NAME,News
 DOMAIN,gspe1-ssl.ls.apple.com
-USER-AGENT,News* 
+#USER-AGENT,News* 
 USER-AGENT,AppleNews* 
 USER-AGENT,com.apple.news*
-DOMAIN,gateway.icloud.com
+#DOMAIN,gateway.icloud.com
 DOMAIN,news-client.apple.com  
 DOMAIN-SUFFIX,apple.news
-DOMAIN,news-events.apple.com
+#DOMAIN,news-events.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,play.itunes.apple.com
