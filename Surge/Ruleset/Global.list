@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,deepdiscount.com
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,depositphotos.com
+DOMAIN-SUFFIX,deviantart.com,force-remote-dns
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
@@ -146,7 +147,8 @@ DOMAIN-SUFFIX,hket.com
 DOMAIN-SUFFIX,hkgolden.com
 DOMAIN-SUFFIX,hootsuite.com
 DOMAIN-SUFFIX,hudson.org
-
+DOMAIN-SUFFIX,id.heroku.com
+DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,initiummall.com
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,issuu.com
@@ -165,6 +167,7 @@ DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mil
 DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nofile.io
 DOMAIN-SUFFIX,now.com
