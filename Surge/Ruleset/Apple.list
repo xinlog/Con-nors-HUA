@@ -1,6 +1,6 @@
 # > Apple 
-DOMAIN-SUFFIX,apple.co,force-remote-dns
-DOMAIN-SUFFIX,apple.com,force-remote-dns
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud.com
