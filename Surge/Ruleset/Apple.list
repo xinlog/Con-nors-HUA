@@ -1,6 +1,9 @@
 # > Apple 
+DOMAIN-SUFFIX,apple.cnc.ccgslb.com.cn
+DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud.com
@@ -15,13 +18,14 @@ DOMAIN,xp.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,mesu.apple.com
 DOMAIN,api.smoot.apple.cn
-
 DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,aiport.us
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,thinkdifferent.us
 
 PROCESS-NAME,trustd
 USER-AGENT,*com.apple.mobileme.fmip1
@@ -33,9 +37,15 @@ USER-AGENT,FindMyiPhone*
 USER-AGENT,FMDClient*
 USER-AGENT,FMFD*
 USER-AGENT,fmflocatord*
+DOMAIN-KEYWORD,fmfmobile
 
 # > App Store Download || iBooks Sample
 DOMAIN-SUFFIX,itunes.apple.com
+PROCESS-NAME,storedownload // Mac App Store
+USER-AGENT,com.apple.appstored* // iOS App Store
+DOMAIN-SUFFIX,itools.info
+DOMAIN-SUFFIX,ibook.info
+DOMAIN-SUFFIX,itunes.com
 
 # > Apple Music
 DOMAIN,aod.itunes.apple.com
