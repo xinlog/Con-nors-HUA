@@ -1,14 +1,6 @@
 # > Apple 
 DOMAIN-SUFFIX,apple.cnc.ccgslb.com.cn
 DOMAIN-SUFFIX,apple.com.akadns.net
-DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cn
-DOMAIN-SUFFIX,appstore.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,api.smoot.apple.com
 DOMAIN,captive.apple.com
 DOMAIN,configuration.apple.com
