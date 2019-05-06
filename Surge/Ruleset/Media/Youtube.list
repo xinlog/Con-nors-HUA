@@ -13,3 +13,4 @@ DOMAIN,youtubei.googleapis.com
 DOMAIN,manifest.googleviedo.com
 DOMAIN,tv.youtube.com
 DOMAIN-KEYWORD,youtube
+USER-AGENT,com.google.ios.youtubeunplugged*
