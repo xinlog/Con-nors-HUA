@@ -2,6 +2,14 @@
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
 USER-AGENT,YouTubeMusic*
+USER-AGENT,*YouTube*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN,youtubei.googleapis.com
+DOMAIN,manifest.googleviedo.com
+DOMAIN,tv.youtube.com
+DOMAIN-KEYWORD,youtube
