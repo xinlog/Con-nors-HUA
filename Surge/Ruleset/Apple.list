@@ -17,8 +17,8 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,courier.push.apple.com
 DOMAIN-SUFFIX,thinkdifferent.us
-
 PROCESS-NAME,trustd
 USER-AGENT,*com.apple.mobileme.fmip1
 USER-AGENT,*WeatherFoundation*
