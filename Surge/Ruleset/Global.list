@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN,clientservices.googleapis.com
 DOMAIN,talk.google.com
 DOMAIN,mtalk.google.com
+USER-AGENT,com.google.GoogleDigitalEditions*
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
