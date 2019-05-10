@@ -13,6 +13,7 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
 DOMAIN,clientservices.googleapis.com
 DOMAIN,talk.google.com
+DOMAIN,mtalk.google.com
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
@@ -374,6 +375,7 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN,ssl.gstatic.com
 # > Steam
 DOMAIN,media.steampowered.com
 
