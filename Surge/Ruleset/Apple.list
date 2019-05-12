@@ -50,3 +50,6 @@ DOMAIN,mvod.itunes.apple.com
 
 # > Apple TV
 DOMAIN,ocvideo.apple.com
+
+# > Apple Media 
+DOMAIN-KEYWORD,AppleCoreMedia
