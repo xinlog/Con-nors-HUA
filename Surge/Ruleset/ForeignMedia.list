@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,staticasiafox.akamaized.net
 DOMAIN-SUFFIX,dashasiafox.akamaized.net
+DOMAIN,foxnews-f.akamaihd.net
 # > (US)
 # > HBO NOW & HBO GO
 USER-AGENT,HBO%20NOW*
