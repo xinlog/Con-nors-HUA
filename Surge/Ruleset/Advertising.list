@@ -383,8 +383,10 @@ URL-REGEX,^https?:\/\/paopao\w?\.qiyipic\.com
 DOMAIN,adserviceretry.kugou.com
 DOMAIN,ads.service.kugou.com
 DOMAIN,adsfile.bssdlbig.kugou.com
+DOMAIN,g,koowo.cn
 DOMAIN,log.stat.kugou.com
 DOMAIN,log.web.kugou.com
+DOMAIN,log.kuwo.cn
 DOMAIN,kgmobilestat.kugou.com
 DOMAIN,kgmobilestatbak.kugou.com
 DOMAIN,mobilelog.kugou.com
@@ -423,7 +425,6 @@ DOMAIN-SUFFIX,zamplus.com
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,admob.xiaomi.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
-DOMAIN-SUFFIX,data.mistat.xiaomi.com
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,adv.sec.intl.miui.com
