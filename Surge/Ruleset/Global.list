@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,bit-z.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,book.com.tw
 DOMAIN-SUFFIX,booklive.jp
 DOMAIN-SUFFIX,books.com.tw
@@ -90,6 +91,7 @@ DOMAIN-SUFFIX,businessinsider.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
+DOMAIN-SUFFIX,cccat.cc
 DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,cdw.com
 DOMAIN-SUFFIX,change.org
@@ -193,6 +195,8 @@ DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,orientaldaily.com.my
+DOMAIN-SUFFIX,overcast.com
 DOMAIN-SUFFIX,pcloud.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixiv.net
@@ -215,10 +219,12 @@ DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steemit.com
+DOMAIN-SUFFIX,steemitwallet.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,teco-hk.org
 DOMAIN-SUFFIX,teco-mo.org
 DOMAIN-SUFFIX,teddysun.com
+DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,torproject.org
@@ -249,8 +255,11 @@ DOMAIN-SUFFIX,worldcat.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xnnx.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yelp.com
 DOMAIN-SUFFIX,yesasia.com
 DOMAIN-SUFFIX,yes-news.com
