@@ -331,12 +331,14 @@ USER-AGENT,Roam*
 DOMAIN-SUFFIX,appsto.re
 # > TestFlight
 DOMAIN,beta.itunes.apple.com
+DOMAIN,testflight.apple.com
 # > iBooks Store download
 DOMAIN,books.itunes.apple.com
 # > iTunes Store Moveis Trailers
 DOMAIN,hls.itunes.apple.com
 # App Store Preview
 DOMAIN,itunes.apple.com
+DOMAIN,apps.apple.com
 # > Spotlight
 DOMAIN,api-glb-sea.smoot.apple.com
 # > Dictionary
