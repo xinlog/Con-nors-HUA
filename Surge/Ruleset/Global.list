@@ -15,6 +15,9 @@ DOMAIN,clientservices.googleapis.com
 DOMAIN,talk.google.com
 DOMAIN,mtalk.google.com
 USER-AGENT,com.google.GoogleDigitalEditions*
+# > Microsoft
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,xboxlive.com
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
@@ -51,6 +54,7 @@ DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
+DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,abebooks.com
 DOMAIN-SUFFIX,amazon.co.jp
@@ -86,7 +90,6 @@ DOMAIN-SUFFIX,book.com.tw
 DOMAIN-SUFFIX,booklive.jp
 DOMAIN-SUFFIX,books.com.tw
 DOMAIN-SUFFIX,box.com
-DOMAIN-SUFFIX,brookings.edu
 DOMAIN-SUFFIX,businessinsider.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,castbox.fm
@@ -151,6 +154,7 @@ DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,gumroad.com
 DOMAIN-SUFFIX,hbg.com
+DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,hightail.com
 DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,hkbf.org
@@ -160,7 +164,6 @@ DOMAIN-SUFFIX,hket.com
 DOMAIN-SUFFIX,hkgolden.com
 DOMAIN-SUFFIX,hootsuite.com
 DOMAIN-SUFFIX,hudson.org
-DOMAIN-SUFFIX,id.heroku.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,initiummall.com
 DOMAIN-SUFFIX,ipfs.io
@@ -172,7 +175,6 @@ DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,lihkg.com
-DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,medium.com
@@ -254,7 +256,6 @@ DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,worldcat.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
-DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xnnx.com
 DOMAIN-SUFFIX,xvideos.com
@@ -301,6 +302,7 @@ DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,gettyimages.com
 DOMAIN-SUFFIX,jcpenney.com
 DOMAIN-SUFFIX,kknews.cc
+DOMAIN-SUFFIX,mailfence.com
 DOMAIN-SUFFIX,nationwide.com
 DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nordstrom.com
@@ -389,6 +391,13 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+# > Microsoft
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,live.com
 DOMAIN,ssl.gstatic.com
 # > Steam
 DOMAIN,media.steampowered.com
@@ -433,6 +442,7 @@ DOMAIN-SUFFIX,myactimes.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,now.im
 DOMAIN-SUFFIX,redditlist.com
+DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,sparknotes.com
 DOMAIN-SUFFIX,streetvoice.com
