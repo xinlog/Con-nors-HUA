@@ -433,9 +433,9 @@ URL-REGEX,^https?:\/\/cms\.daydaycook\.com\.cn\/api\/cms\/advertisement\/
 URL-REGEX,^https?:\/\/www\.dandanzan\.com\/res\/gdsefse\.js
 
 # E
-# > eLong(123.59.31.1,119.18.193.135)
-URL-REGEX,^https?:\/\/mobile-api2011\.elong\.com\/(adgateway|adv)\/
-URL-REGEX,^https?:\/\/(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})(\.(2(5[0-5]{1}|[0-4]\d{1})|[0-1]?\d{1,2})){3}\/(adgateway|adv)\/
+# > eLong
+URL-REGEX,^https?:\/\/123\.59\.31\.1\/(adgateway|adv)\/
+URL-REGEX,^https?:\/\/119\.18\.193\.135\/(adgateway|adv)\/
 
 # F
 # > Foodie
