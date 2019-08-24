@@ -16,8 +16,17 @@ DOMAIN,talk.google.com
 DOMAIN,mtalk.google.com
 USER-AGENT,com.google.GoogleDigitalEditions*
 # > Microsoft
-DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,xboxlive.com
+# >> Microsoft OneDrive
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN,oneclient.sfx.ms
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
@@ -403,14 +412,6 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-# > Microsoft
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,storage.msn.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,live.com
-DOMAIN,ssl.gstatic.com
 # > Steam
 DOMAIN,media.steampowered.com
 
