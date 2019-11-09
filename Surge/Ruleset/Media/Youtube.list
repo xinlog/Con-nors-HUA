@@ -14,3 +14,6 @@ DOMAIN,manifest.googleviedo.com
 DOMAIN,tv.youtube.com
 DOMAIN-KEYWORD,youtube
 USER-AGENT,com.google.ios.youtubeunplugged*
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
