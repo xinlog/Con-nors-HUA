@@ -5,3 +5,5 @@ DOMAIN,content.jwplatform.com
 DOMAIN,videos-f.jwpsrv.com
 # > TVB News
 DOMAIN-SUFFIX,news.tvb.com
+# > HK News
+DOMAIN-SUFFIX,hk01.com
