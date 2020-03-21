@@ -7,3 +7,6 @@ DOMAIN,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,news.tvb.com
 # > HK News
 DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,on.cc
+DOMAIN-SUFFIX,hk.on.cc
+DOMAIN-SUFFIX,orientaldaily.on.cc
